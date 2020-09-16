@@ -1,0 +1,9 @@
+ipykernel
+matplotlib
+numpy
+seaborn
+pandas
+jupyter
+tensorflow-cpu
+yfinance
+urllib3
